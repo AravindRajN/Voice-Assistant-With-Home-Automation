@@ -12,17 +12,16 @@
 - Capability to monitor the device from far distance.
 - Highly Secure system (accessable only to authorised users).
 
-​# Hardware Requirements
+# Hardware Requirements
 - RASPBERRY PI 4
 - RELAY SWITCH
 - LAPTOP
 - MOBILE
 
 # Software Requirements
-- ANDROID 10 ​
-- GOOGLE SERVICE​
+- ANDROID 10 
+- GOOGLE SERVICE
 - WINDOWS 10 AND ABOVE
 
 # Author
-TEAM CODERS SPOT
 - ARAVIND RAJ N
