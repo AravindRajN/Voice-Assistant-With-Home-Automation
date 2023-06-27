@@ -1,5 +1,5 @@
 
-# Automated_Voice_Control_System(IOT Based)
+# Automated_Voice_Control_System(IOT Based) with java and python
 
 # Abstract
 -This application is an IOT based application which enables us to have complete control over all our home electrical appliances, Laptop via voice with internet connectivity. With just a tap on your mobile or laptop you will have access to all the appliances in your home connected to this system, from anywhere in the world.The most favorable feature is the ability to control you're appliances with only a voice command.
